@@ -1,0 +1,8 @@
+# Gradle build artifacts
+.gradle/
+build/
+/tmp/
+# Gradle wrapper
+gradle/
+gradlew
+gradlew.bat
